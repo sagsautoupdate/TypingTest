@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<configuration>
+  <configSections>
+    <section name="Telerik.Reporting" type="Telerik.Reporting.Configuration.ReportingConfigurationSection, Telerik.Reporting, Version=11.0.17.222, Culture=neutral, PublicKeyToken=a9d7983dfcc261be" />
+  </configSections>
+  <Telerik.Reporting>
+    <Cache provider="" />
+    <cache provider="" />
+    <assemblyReferences>
+      <add name="TypingTestBLL" version="1.0.0.0" />
+    </assemblyReferences>
+    <SessionState provider="" />
+    <restReportService>
+      <storage provider="" />
+      <reportResolver provider="" />
+    </restReportService>
+  </Telerik.Reporting>
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0" />
+  </startup>
+  <appSettings>
+    <add key="Server_SAGS" value="RIXrvkPhBHnJyUciwX3gRDGz95/3ghlXRbKZgGYMEF3TJ8jUSehEv5VxbK2DY7I6ELGraYen2xlQ5ySHsGTpiobcqiStpvrMmP1MQoqdBREKH1ZHvrSJBQoP8ecM1iuJ+GXOmUasVy+dHXFJ3/jLoiypeLdhWE9X4988JOAllgCtIIlzFgg1gZMzoiLPU/3E" />
+    <add key="ConnectionString" value="RIXrvkPhBHnJyUciwX3gRDGz95/3ghlXRbKZgGYMEF3TJ8jUSehEv5VxbK2DY7I6ELGraYen2xlQ5ySHsGTpiobcqiStpvrMmP1MQoqdBREKH1ZHvrSJBQoP8ecM1iuJ+GXOmUasVy+dHXFJ3/jLoiypeLdhWE9X4988JOAllgCtIIlzFgg1gZMzoiLPU/3E" />
+    <add key="ClientSettingsProvider.ServiceUri" value="" />
+  </appSettings>
+  <connectionStrings>
+    <add name="Server_SAGS" connectionString="Gi9lgp/wyxFx7gyM+eoHWSFxfR/nM/Ainrn2SH6L7QsSKK+Mn+yMNGsII6SBF5a17i0KnOBQyMk2Pirow/FuVfg3x3VlCWRRXI3RmZadh44iIMMDDPXc1+WkNAKI+Aj7Tj1MMvFBLiFOZaA3FCHWhvnsxaVMHzzdnovjc6KAxzw=" />
+  </connectionStrings>
+</configuration>
